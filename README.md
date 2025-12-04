@@ -1,4 +1,4 @@
-#  Project Title  
+#  🎲 Tenzies Game
 
 > A fun and interactive dice-rolling game where you try to get all dice to match. Test your luck and strategy!
 
@@ -31,7 +31,8 @@ This project is perfect for beginners learning React state management, component
 | **CSS3**                    | Styling and responsiveness              |
 | **JavaScript (ES6)**        | Logic and interactivity                 |
 | **React.js**                | Component-based UI and state management |
-| **nanoid / react-confetti** | External libraries used                 |
+| **nanoid / react-confetti** | Unique ID generation                    |
+| **react-confetti            | Win celebration animation               |
 
 
 ---
@@ -54,17 +55,20 @@ Here are the key JavaScript concepts or tools covered while building this projec
 Reflect briefly on your takeaways:  
 
 > Learned how to manage complex state
+
 > improved understanding of component-based architecture
+
 > Gained practice with accessibility features
+
 > Strengthened React fundamentals
 
 ---
 
 ## 🖼️ Screenshots / Demo  
 
-![App Screenshot](./images/demo.png)  
+![App Screenshot](./src/assets/demo.png)  
 
-🔗 **Live Demo:** [https://your-demo-link.vercel.app](https://your-demo-link.vercel.app)  
+🔗 **Live Demo:**   
 
 ---
 

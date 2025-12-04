@@ -1,38 +1,38 @@
 #  Project Title  
 
-> A brief one-liner about your project — what it does and why it’s useful.  
-> _Example: A simple, responsive web app that helps users find the perfect meme based on their mood._  
+> A fun and interactive dice-rolling game where you try to get all dice to match. Test your luck and strategy!
 
 ---
 
 ## 🪞 Overview  
-Write a short paragraph describing your project:  
-- What problem it solves  
-- Who it’s for  
-- What makes it unique or fun  
-
-_Example:_  
-This web app allows users to interact with dynamic content using JavaScript. It focuses on simplicity, responsiveness, and clean UI design principles.  
+Tenzies is a simple yet addictive game built with React. The player rolls 10 dice and chooses which ones to “hold” in order to match all values. The game continues until all dice show the same number — then 🎉 Confetti appears to celebrate the win!
+This project is perfect for beginners learning React state management, component props, and conditional rendering. 
 
 ---
 
 ## 🚀 Features  
 ✨ Key things your app can do:  
 
-- 🎯 Feature 1  
-- 🧠 Feature 2  
-- 📱 Feature 3  
-- 🌙 Feature 4  
+- 🎲 Roll 10 dice at once
+- 📌 Hold individual dice to lock their value
+- 🏆 Detects when the player wins (all dice equal + held)
+- 🎉 Confetti animation on winning
+- 🔁 Reset / Start New Game button
+- ♿ Accessible with ARIA labels and screen-reader announcements
 
 ---
 
+
+
 ## 🧱 Tech Stack  
-| Technology | Purpose |
-|-------------|----------|
-| **HTML5** | Structure of the app |
-| **CSS3** | Styling and responsiveness |
-| **JavaScript (ES6)** | Logic and interactivity |
-| *(Optional)* **API / Library** | If any external tools were used |
+| Technology                  | Purpose                                 |
+| --------------------------- | --------------------------------------- |
+| **HTML5**                   | Structure of the app                    |
+| **CSS3**                    | Styling and responsiveness              |
+| **JavaScript (ES6)**        | Logic and interactivity                 |
+| **React.js**                | Component-based UI and state management |
+| **nanoid / react-confetti** | External libraries used                 |
+
 
 ---
 
@@ -41,14 +41,22 @@ This web app allows users to interact with dynamic content using JavaScript. It 
 Here are the key JavaScript concepts or tools covered while building this project 🧩   
 
 > Concepts practiced include:  
-> 
+- React useState
+- Updating arrays in state
+- Conditional rendering
+- Passing props and reusable components
+- Accessibility with ARIA
+- Integrating external libraries
 
 ---
 
 ## 🌿 Lessons Learned  
 Reflect briefly on your takeaways:  
 
-> - 
+> Learned how to manage complex state
+> improved understanding of component-based architecture
+> Gained practice with accessibility features
+> Strengthened React fundamentals
 
 ---
 

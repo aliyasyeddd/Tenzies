@@ -31,7 +31,7 @@ This project is perfect for beginners learning React state management, component
 | **CSS3**                    | Styling and responsiveness              |
 | **JavaScript (ES6)**        | Logic and interactivity                 |
 | **React.js**                | Component-based UI and state management |
-| **nanoid** | Unique ID generation                    |
+| **nanoid**                  | Unique ID generation                    |
 | **react-confetti            | Win celebration animation               |
 
 

@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const die = (props) => {
-  return (
-    <button>{props.value}</button>
-  )
-}
+  const styles = {
+    backgroundColor: props.isHeld ? "#59E391" : "white",
+  };
 
-export default die
+  return <button style={styles}>{props.value}</button>;
+};
+
+export default die;

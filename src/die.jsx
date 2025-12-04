@@ -5,7 +5,12 @@ const die = (props) => {
     backgroundColor: props.isHeld ? "#59E391" : "white",
   };
 
-  return <button style={styles}>{props.value}</button>;
+  return <button 
+  style={styles}
+  onClick={props.hold}
+  >
+    {props.value}
+  </button>;
 };
 
 export default die;

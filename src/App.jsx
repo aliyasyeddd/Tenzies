@@ -18,7 +18,9 @@ function App() {
   }
 
   function diceRoll() {
-    setDiceArray(oldDice => oldDice.map(dice => 
+    gameWon 
+    ? setDiceArray(generateAllNewDice())
+    : setDiceArray(oldDice => oldDice.map(dice => 
       dice.isHeld 
       ? dice 
       : {...dice, value: Math.ceil(Math.random() * 6)}

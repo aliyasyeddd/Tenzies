@@ -68,8 +68,6 @@ Reflect briefly on your takeaways:
 
 ![App Screenshot](./src/assets/demo.png)  
 
-🔗 **Live Demo:**   
-
 ---
 
 ## 💫 Author  
